@@ -1,0 +1,7 @@
+pydantic
+structlog
+requests
+tenacity
+pytest
+pytest-cov
+ruff
